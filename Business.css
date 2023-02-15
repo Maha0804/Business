@@ -9,6 +9,10 @@
     top: 0px;
     
 }
+body
+{
+  overflow-x: hidden;
+}
 .B1
 {
      background-image: url(B1.jpg);
